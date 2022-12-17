@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-17T22:01:40.662Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="HOcAXNsMKhbrLSZK-kYm" version="20.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-17T22:03:41.627Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="XN6M2Cn-KQVVV-ZwxLRl" version="20.2.5" type="github">
   <diagram id="VK3RTZsQUqMUPThRABeq" name="Seite-1">
     <mxGraphModel dx="1456" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,7 +6,7 @@
         <mxCell id="1" parent="0" />
         <mxCell id="BM1w3yiu7kG1aTaWFo76-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BM1w3yiu7kG1aTaWFo76-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="190" y="420" as="targetPoint" />
+            <mxPoint x="190" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BM1w3yiu7kG1aTaWFo76-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BM1w3yiu7kG1aTaWFo76-1" target="BM1w3yiu7kG1aTaWFo76-3">
@@ -61,6 +61,9 @@
         </mxCell>
         <mxCell id="BM1w3yiu7kG1aTaWFo76-19" value="New high,&amp;nbsp;&lt;br&gt;buy long, (trailing) stop Loss at -2*std, or&amp;nbsp; min with shorter period&lt;br&gt;&lt;br&gt;and vice versa (long, short)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="820" y="480" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BM1w3yiu7kG1aTaWFo76-21" value="Statistical proof:&amp;nbsp;&lt;br&gt;check different commodities&lt;br&gt;run win rate in parallel and check whether it is moving opposite directions&lt;br&gt;backtest&amp;nbsp;&lt;br&gt;&quot;percentage wins after x time&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="110" width="300" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
