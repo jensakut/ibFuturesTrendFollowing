@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-17T22:05:56.607Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="YLEEosuX5qY8BEN-0u6D" version="20.2.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-12-17T22:17:40.916Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Z_J1dYQh0t5ARxAbfGgg" version="20.2.5" type="github" pages="3">
   <diagram id="VK3RTZsQUqMUPThRABeq" name="TF/MR on short time frame">
-    <mxGraphModel dx="1456" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2283" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -65,10 +65,75 @@
         <mxCell id="BM1w3yiu7kG1aTaWFo76-21" value="Statistical proof:&amp;nbsp;&lt;br&gt;check different commodities&lt;br&gt;run win rate in parallel and check whether it is moving opposite directions&lt;br&gt;backtest&amp;nbsp;&lt;br&gt;&quot;percentage wins after x time&quot;&lt;br&gt;&lt;br&gt;a lot of data since minute charts :)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="110" width="300" height="160" as="geometry" />
         </mxCell>
+        <mxCell id="_x_Snv1CV_kkB_dPK399-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_x_Snv1CV_kkB_dPK399-1" target="BM1w3yiu7kG1aTaWFo76-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_x_Snv1CV_kkB_dPK399-1" value="Commodities / Index Futures Universe wegen Leverage?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_x_Snv1CV_kkB_dPK399-3" value="Stocks?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="zN3fcqKvg-jUUNKOYYdG" name="Seite-2">
+  <diagram id="zN3fcqKvg-jUUNKOYYdG" name="Modern CANSLIM?">
+    <mxGraphModel dx="2283" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RJZip8eucNwpseO5QhYE-1" value="Earning Quality" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RJZip8eucNwpseO5QhYE-2" value="Modern CANSLIM?&lt;br&gt;&lt;br&gt;Find the strongest of stocks" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="70" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RJZip8eucNwpseO5QhYE-3" value="Profitability" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RJZip8eucNwpseO5QhYE-4" value="Stock Universe" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yP6wDF-zd7KKgBvsiXPi-1" value="Momentum vs Average Momentum" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yP6wDF-zd7KKgBvsiXPi-2" value="Industry strength" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yP6wDF-zd7KKgBvsiXPi-3" value="Strong Base" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yP6wDF-zd7KKgBvsiXPi-4" value="Breakout" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yP6wDF-zd7KKgBvsiXPi-5" value="Stop Loss e.g. 7 % or 3* STD&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yP6wDF-zd7KKgBvsiXPi-6" value="If falls below breakout liquidate half the position" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yP6wDF-zd7KKgBvsiXPi-7" value="Sell if falls below Min" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yP6wDF-zd7KKgBvsiXPi-8" value="Sell if momentum fades&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yP6wDF-zd7KKgBvsiXPi-10" value="Win rate &amp;lt; 0.5 weil viele Stocks schnell liquidiert werden&lt;br&gt;&lt;br&gt;Wenige Stocks machen viel Gewinn&lt;br&gt;&lt;br&gt;Nachweis:&amp;nbsp;&lt;br&gt;- Quality Factors in verschiedenen Perioden / Gesamtheitlich&lt;br&gt;- Breakout on its own" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="570" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hgG9cI2qLvR-yEieUUG0-1" value="Position Size Equal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hgG9cI2qLvR-yEieUUG0-2" value="ATR/STD position size" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hgG9cI2qLvR-yEieUUG0-3" value="Range Position Size" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="7B_jze7HxOyKP_zmJPCG" name="Seite-3">
     <mxGraphModel dx="1456" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
