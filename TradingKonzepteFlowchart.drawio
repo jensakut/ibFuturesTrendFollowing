@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-25T11:49:39.863Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="wrsQmMAykMBSZ5_lpKv_" version="20.7.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-12-25T12:07:18.487Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="ho-BtI-tjQLPnY0wwqz1" version="20.7.4" type="github" pages="4">
   <diagram id="VK3RTZsQUqMUPThRABeq" name="TF/MR on short time frame">
     <mxGraphModel dx="2224" dy="1010" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -148,7 +148,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="71mZlUHGRR9bgR5draeT" name="Mental Models">
-    <mxGraphModel dx="798" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="670" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -231,6 +231,62 @@
         </mxCell>
         <mxCell id="5-3oio5sw9SECArTRU8J-26" value="Patience" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5-3oio5sw9SECArTRU8J-29" value="Evolving concepts" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5-3oio5sw9SECArTRU8J-34" value="" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5-3oio5sw9SECArTRU8J-30" target="5-3oio5sw9SECArTRU8J-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5-3oio5sw9SECArTRU8J-30" value="System Trader" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5-3oio5sw9SECArTRU8J-36" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5-3oio5sw9SECArTRU8J-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1610" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5-3oio5sw9SECArTRU8J-31" value="Discretionary Trader" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5-3oio5sw9SECArTRU8J-33" value="Computerised System" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5-3oio5sw9SECArTRU8J-37" value="Intuitive System" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5-3oio5sw9SECArTRU8J-38" value="Thorough tests for belief" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5-3oio5sw9SECArTRU8J-39" value="Underlying markets constantly changing hence trading intuition is more important than valid tests" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5-3oio5sw9SECArTRU8J-40" value="Long decision making process due to a lot of verification" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5-3oio5sw9SECArTRU8J-41" value="Intuitive fast and confident decision making" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5-3oio5sw9SECArTRU8J-42" value="Extensive studies" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5-3oio5sw9SECArTRU8J-43" value="Reviewing game plan before the day" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1534" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5-3oio5sw9SECArTRU8J-44" value="Reviewing the day especially when stuff went wrong" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5-3oio5sw9SECArTRU8J-47" value="" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5-3oio5sw9SECArTRU8J-45" target="5-3oio5sw9SECArTRU8J-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5-3oio5sw9SECArTRU8J-45" value="Attitude" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5-3oio5sw9SECArTRU8J-46" value="What I am doing important to me&lt;br&gt;&lt;br&gt;What I am doing depends on me&lt;br&gt;&lt;br&gt;I use preparation and review to improve my performance&lt;br&gt;&lt;br&gt;Enjoy getting better at the game" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1590" y="865" width="120" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="5-3oio5sw9SECArTRU8J-48" value="Do not be the doubtful novice:&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;br&gt;Markets are evil, trading on commodities is bad&lt;br&gt;&lt;br&gt;The market/other traders are responsible for my losses&lt;br&gt;&lt;br&gt;I don&#39;t trust the system I copied from somebody&amp;nbsp;&lt;br&gt;&lt;br&gt;I am only here for the money" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="865" width="120" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
