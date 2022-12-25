@@ -1,15 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2022-12-17T22:19:56.726Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="NIDmDZ_rmY4W13YVR9lR" version="20.2.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-12-25T11:44:24.080Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="6hWaDS8RTfCesyPtmfII" version="20.7.4" type="github" pages="4">
   <diagram id="VK3RTZsQUqMUPThRABeq" name="TF/MR on short time frame">
-    <mxGraphModel dx="2283" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2224" dy="1010" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="BM1w3yiu7kG1aTaWFo76-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BM1w3yiu7kG1aTaWFo76-1">
+        <mxCell id="BM1w3yiu7kG1aTaWFo76-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BM1w3yiu7kG1aTaWFo76-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="190" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BM1w3yiu7kG1aTaWFo76-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BM1w3yiu7kG1aTaWFo76-1" target="BM1w3yiu7kG1aTaWFo76-3">
+        <mxCell id="BM1w3yiu7kG1aTaWFo76-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="BM1w3yiu7kG1aTaWFo76-1" target="BM1w3yiu7kG1aTaWFo76-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="390" y="320" as="sourcePoint" />
             <Array as="points">
@@ -18,60 +18,60 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BM1w3yiu7kG1aTaWFo76-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BM1w3yiu7kG1aTaWFo76-1" target="BM1w3yiu7kG1aTaWFo76-7">
+        <mxCell id="BM1w3yiu7kG1aTaWFo76-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BM1w3yiu7kG1aTaWFo76-1" target="BM1w3yiu7kG1aTaWFo76-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="630" y="320" as="targetPoint" />
             <mxPoint x="390" y="320" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BM1w3yiu7kG1aTaWFo76-1" value="Decide when the market is mean reverting or trending" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BM1w3yiu7kG1aTaWFo76-1" value="Decide when the market is mean reverting or trending" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BM1w3yiu7kG1aTaWFo76-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BM1w3yiu7kG1aTaWFo76-3">
+        <mxCell id="BM1w3yiu7kG1aTaWFo76-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BM1w3yiu7kG1aTaWFo76-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="500" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BM1w3yiu7kG1aTaWFo76-3" value="Mean Reverting on short time frame" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="BM1w3yiu7kG1aTaWFo76-3" value="Mean Reverting on short time frame" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="440" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BM1w3yiu7kG1aTaWFo76-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BM1w3yiu7kG1aTaWFo76-7" target="BM1w3yiu7kG1aTaWFo76-19">
+        <mxCell id="BM1w3yiu7kG1aTaWFo76-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="BM1w3yiu7kG1aTaWFo76-7" target="BM1w3yiu7kG1aTaWFo76-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BM1w3yiu7kG1aTaWFo76-7" value="Trend Following on short time frame" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BM1w3yiu7kG1aTaWFo76-7" value="Trend Following on short time frame" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="830" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BM1w3yiu7kG1aTaWFo76-13" value="BB 2 STD, buy at 2 std high, sell at 2 std low and profit take in the middle, stop loss at 3 std" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="BM1w3yiu7kG1aTaWFo76-13" value="BB 2 STD, buy at 2 std high, sell at 2 std low and profit take in the middle, stop loss at 3 std" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="390" y="480" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="BM1w3yiu7kG1aTaWFo76-14" value="New high,&amp;nbsp;&lt;br&gt;sell short, stop Loss at larger time frame high&lt;br&gt;profit taking at ?&lt;br&gt;&lt;br&gt;and vice versa (long, short)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="BM1w3yiu7kG1aTaWFo76-14" value="New high,&amp;nbsp;&lt;br&gt;sell short, stop Loss at larger time frame high&lt;br&gt;profit taking at ?&lt;br&gt;&lt;br&gt;and vice versa (long, short)" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="510" y="480" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="BM1w3yiu7kG1aTaWFo76-15" value="MACD/RSI&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="BM1w3yiu7kG1aTaWFo76-15" value="MACD/RSI&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="650" y="480" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="BM1w3yiu7kG1aTaWFo76-16" value="Analyze win rate of both strategies?&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BM1w3yiu7kG1aTaWFo76-16" value="Analyze win rate of both strategies?&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BM1w3yiu7kG1aTaWFo76-17" value="Use longer time frame to check whether in a trading range" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BM1w3yiu7kG1aTaWFo76-17" value="Use longer time frame to check whether in a trading range" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BM1w3yiu7kG1aTaWFo76-18" value="Manual analysis?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BM1w3yiu7kG1aTaWFo76-18" value="Manual analysis?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BM1w3yiu7kG1aTaWFo76-19" value="New high,&amp;nbsp;&lt;br&gt;buy long, (trailing) stop Loss at -2*std, or&amp;nbsp; min with shorter period&lt;br&gt;&lt;br&gt;and vice versa (long, short)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="BM1w3yiu7kG1aTaWFo76-19" value="New high,&amp;nbsp;&lt;br&gt;buy long, (trailing) stop Loss at -2*std, or&amp;nbsp; min with shorter period&lt;br&gt;&lt;br&gt;and vice versa (long, short)" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="820" y="480" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="BM1w3yiu7kG1aTaWFo76-21" value="Statistical proof:&amp;nbsp;&lt;br&gt;check different commodities&lt;br&gt;run win rate in parallel and check whether it is moving opposite directions&lt;br&gt;backtest&amp;nbsp;&lt;br&gt;&quot;percentage wins after x time&quot;&lt;br&gt;&lt;br&gt;a lot of data since minute charts :)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BM1w3yiu7kG1aTaWFo76-21" value="Statistical proof:&amp;nbsp;&lt;br&gt;check different commodities&lt;br&gt;run win rate in parallel and check whether it is moving opposite directions&lt;br&gt;backtest&amp;nbsp;&lt;br&gt;&quot;percentage wins after x time&quot;&lt;br&gt;&lt;br&gt;a lot of data since minute charts :)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="110" width="300" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="_x_Snv1CV_kkB_dPK399-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_x_Snv1CV_kkB_dPK399-1" target="BM1w3yiu7kG1aTaWFo76-1">
+        <mxCell id="_x_Snv1CV_kkB_dPK399-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_x_Snv1CV_kkB_dPK399-1" target="BM1w3yiu7kG1aTaWFo76-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_x_Snv1CV_kkB_dPK399-1" value="Commodities / Index Futures Universe wegen Leverage?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_x_Snv1CV_kkB_dPK399-1" value="Commodities / Index Futures Universe wegen Leverage?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-190" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_x_Snv1CV_kkB_dPK399-3" value="Stocks?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_x_Snv1CV_kkB_dPK399-3" value="Stocks?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-190" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
@@ -143,6 +143,41 @@
         <mxCell id="1" parent="0" />
         <mxCell id="Mxl3VQkAT24UKCdeUA-w-1" value="Makro Investing" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="71mZlUHGRR9bgR5draeT" name="Mental Models">
+    <mxGraphModel dx="838" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5-3oio5sw9SECArTRU8J-1" value="Well-rounded personal life" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5-3oio5sw9SECArTRU8J-2" value="Positive Attitude" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5-3oio5sw9SECArTRU8J-3" value="Motivation to make money" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5-3oio5sw9SECArTRU8J-4" value="Lack of conflicts" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5-3oio5sw9SECArTRU8J-5" value="Owning the result" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5-3oio5sw9SECArTRU8J-6" value="Psychological Factors" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5-3oio5sw9SECArTRU8J-7" value="Decision-Making Factors" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5-3oio5sw9SECArTRU8J-8" value="Solid knowledge of technical factors of the market" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5-3oio5sw9SECArTRU8J-9" value="Solid knowledge of technical factors of the market" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
