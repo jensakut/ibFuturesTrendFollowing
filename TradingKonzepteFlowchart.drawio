@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-25T12:14:24.624Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="JYaWZ5uUonRcvEf0BEeO" version="20.7.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-12-25T18:54:45.302Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="_g6Y9EwaF_-k9rcmzjn6" version="20.7.4" type="github" pages="4">
   <diagram id="VK3RTZsQUqMUPThRABeq" name="TF/MR on short time frame">
     <mxGraphModel dx="2224" dy="1010" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -145,6 +145,9 @@
             <mxPoint x="1070" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="8nmNbmVLjC__ol2FfnZE-32" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8nmNbmVLjC__ol2FfnZE-20" target="8nmNbmVLjC__ol2FfnZE-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8nmNbmVLjC__ol2FfnZE-20" value="Follow the trend by buying into second anti trend reversal with stop loss above the range" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="890" y="680" width="120" height="100" as="geometry" />
         </mxCell>
@@ -162,6 +165,12 @@
         </mxCell>
         <mxCell id="8nmNbmVLjC__ol2FfnZE-30" value="Move stop loss target" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1100" y="820" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8nmNbmVLjC__ol2FfnZE-31" value="Adding to the position" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="560" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8nmNbmVLjC__ol2FfnZE-33" value="https://www.youtube.com/watch?v=LV0GKL7KNNI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="780" width="290" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
